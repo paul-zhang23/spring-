@@ -1,0 +1,58 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+dist/
+build/
+*.egg
+.venv/
+venv/
+ENV/
+env/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Backup files
+*.backup
+*.bak
+
+# Database files
+*.db
+*.sqlite
+*.sqlite3
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Logs
+*.log
+
+# Temporary files
+.tmp/
+temp/
+tmp/
+
+# matplotlib
+.matplotlib/
+
+# Model files (optional, uncomment if needed)
+# *.pth
+# *.pt
+# *.ckpt
+# *.safetensors
+
+# Large data files
+*.xml
+*.zip

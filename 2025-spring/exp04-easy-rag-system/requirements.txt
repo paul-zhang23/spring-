@@ -1,6 +1,9 @@
-streamlit 
-pymilvus 
-sentence-transformers 
-transformers 
-torch 
+streamlit
+pymilvus
+sentence-transformers
+transformers
+torch
 accelerate
+networkx
+pyvis
+pandas
